@@ -1,0 +1,28 @@
+.accordion-button {
+    background-color: grey!important;
+    color: white!important;
+}
+
+.btn-primary {
+    background-color: #ffc107!important;
+    border: none;
+    color: black !important;
+}
+
+.border-primary {
+    border: solid 3px #ffc107!important;
+}
+
+.display-3, .display-5 {
+    color: #ffc107!important;
+}
+
+.card-header {
+    color: #000!important;
+    font-size: 25px;
+}
+
+a {
+    color: gray!important;
+    font-size: large;
+}
